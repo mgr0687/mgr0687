@@ -38,8 +38,8 @@ Google ML Engineer Path
 
 ## 🔒 Data Sensitivity Notice
 
-Due to responsible disclosure protocols and medical data protection (LGPD/HIPAA), 
-public repositories contain **sanitized versions only**.
+**Note:** Public versions are sanitized for privacy compliance (LGPD/HIPAA).
+For full technical documentation or unredacted logs, please request access via email/linkedin.
 
 **Full documentation available to:**
 - ✅ Hiring managers & recruiters
